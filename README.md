@@ -1,5 +1,3 @@
-# Authentication por Pedro Machado
-
 ////////////////// REVISADO ACTUALIZADO //////////////////
 
 # ---- Login session ----
